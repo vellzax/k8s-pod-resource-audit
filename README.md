@@ -1,2 +1,3 @@
-# k8s-pod-resource-audit
-CLI utility to inspect CPU and memory allocations across Kubernetes namespaces.
+# Kubernetes Pod Resource Audit
+
+Quick script to audit pod allocations.
